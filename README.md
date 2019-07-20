@@ -1,10 +1,10 @@
 # On-Campus
 ## SERC
-https://serc.berkeley.edu/
+(https://serc.berkeley.edu/)
 
 ## ReUSE
-https://reuse.berkeley.edu/
+(https://reuse.berkeley.edu/)
 
 # Off-Campus
 ## Ecology Center
-https://ecologycenter.org/
+(https://ecologycenter.org/)
