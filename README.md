@@ -1,5 +1,6 @@
 # **Zero Waste: Solutions for a Sustainable Future**
 Fall 2019 
+
 DeCal Instructor: Sage Lenier             mlenier@berkeley.edu
 Annie Mitchell						                anne.marie@berkeley.edu  
 Kira Rodriguez					          	      kirarodriguez@berkeley.edu
