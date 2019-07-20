@@ -25,14 +25,3 @@ political decisions regarding the topics discussed in class.
 - Students have learned to view every resource as valuable and limited.
 
 
-
-
-
-## Resources
-### **On-Campus**
-[SERC](https://serc.berkeley.edu/)
-
-[ReUSE](https://reuse.berkeley.edu/)
-
-### **Off-Campus**
-[Ecology Center](https://ecologycenter.org/)
