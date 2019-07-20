@@ -1,4 +1,7 @@
-# ZWResources
-resources for zero waste
+# On-Campus
+SERC
+ReUSE
 
-This repository will contain all the resources pertaining to on and off campus zero waste. 
+
+# Off-Campus
+Ecology Center
